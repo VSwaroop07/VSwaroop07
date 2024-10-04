@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swaroop</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack Web-developer from India</h3>
 
-- 🌱 I’m currently learning **AWS (Cloud Practitioner)**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **Vyawahareswarup19@gmail.com**
 
