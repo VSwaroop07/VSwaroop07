@@ -5,8 +5,6 @@ Hi 👋 My name is Swaroop...
 -----------------------------------------
 
 * 🌍  I'm based in India
-* 💼  Visit My Portfolio at [Portfolio](https://www.swaroop.codes/)
-* 🖥️  See my resume at [Resume](https://drive.google.com/file/d/1fmXMAHyF47g5kfr5qFmhXXpDd0utKr4z/view?usp=sharing)
 * ✉️  You can contact me at [dev.swaroop.2004@gmail.com](mailto:dev.swaroop.2004@gmail.com)
 * 🧠  I'm learning MERN Stack
 
